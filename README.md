@@ -1,1 +1,1 @@
-# Fresh Mart is an online grocery store built using HTML, CSS, and JavaScript, designed to provide a modern, responsive, and interactive shopping experience. The website features a clean UI, dynamic shopping cart functionality, and smooth navigation for users on any device.
+# Fresh Mart is an online grocery store built using HTML, CSS, and JavaScript, designed to provide a modern, responsive, and interactive shopping experience. 
