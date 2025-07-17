@@ -31,4 +31,4 @@
 2. Open `index.html` in your browser  
    *(or use Live Server in VS Code)*
 
----
+
