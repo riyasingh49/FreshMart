@@ -1,2 +1,34 @@
-Fresh Mart is a modern, responsive commercial website for seamless online grocery shopping, built using HTML, CSS, and JavaScript. The website ensures a smooth browsing experience across all devices. It offers a user-friendly interface with a wide range of fresh produce, dairy, beverages, pantry staples, and household essentials. 
-https://riyasingh49.github.io/FreshMart/
+**FreshMart** is a modern, responsive grocery e-commerce website built with **HTML**, **CSS**, and **JavaScript**. It features a clean layout, interactive elements, and mobile-friendly design to provide a smooth shopping experience.
+
+🔗 [Live Demo](https://riyasingh49.github.io/FreshMart/)  
+📁 [Repository](https://github.com/riyasingh49/FreshMart)
+
+---
+
+## ✨ Features
+
+- Fresh and healthy grocery UI
+- Product listings with images and pricing
+- Responsive design for all screen sizes
+- Smooth scroll and hover animations
+- Clean and intuitive layout
+
+---
+
+## 🚀 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository  
+   `git clone https://github.com/riyasingh49/FreshMart.git`
+
+2. Open `index.html` in your browser  
+   *(or use Live Server in VS Code)*
+
+---
